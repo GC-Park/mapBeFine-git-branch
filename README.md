@@ -2,6 +2,8 @@
 
 ### 프로젝트 설명은 위키 보세요!
 
+### 담당코치 : 브라운, 공원
+
 - [도이](./introdudction/doy.md)
 - [준팍](./introdudction/junpak.md)
 - [매튜](introdudction/matthew.md)
