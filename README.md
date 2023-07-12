@@ -6,4 +6,4 @@
 - 아이크
 - 세인
 - 쥬니
-- 패트릭
+- [패트릭](./introduction/patrick.md)
