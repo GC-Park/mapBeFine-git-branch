@@ -5,5 +5,5 @@
 - 매튜
 - 아이크
 - 세인
-- [쥬니](./introduction/zuny.md)
+- [쥬니](./introdudction/zuny.md)
 - 패트릭
