@@ -4,6 +4,6 @@
 - [준팍](./introdudction/junpak.md) 
 - [매튜](introdudction/matthew.md)
 - 아이크
-- 세인
+- [세인](./introduction/se-een.md)
 - 쥬니
 - [패트릭](./introduction/patrick.md)
