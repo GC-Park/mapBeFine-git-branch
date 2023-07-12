@@ -5,5 +5,5 @@
 - [매튜](introdudction/matthew.md)
 - 아이크
 - [세인](./introduction/se-een.md)
-- 쥬니
+- [쥬니](./introdudction/zuny.md)
 - [패트릭](./introduction/patrick.md)
