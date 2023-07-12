@@ -2,8 +2,8 @@
 
 - 도이
 - [준팍](./introdudction/junpak.md) 
-- 매튜
+- [매튜](introdudction/matthew.md)
 - 아이크
 - 세인
 - 쥬니
-- 패트릭
+- [패트릭](./introduction/patrick.md)
